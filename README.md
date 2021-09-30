@@ -4,4 +4,4 @@ some description!
 
 ## Subheader
 
-more text
+more text.
